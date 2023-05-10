@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
+
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -17,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learningg React
+          Learning React
         </a>
       </header>
     </div>
